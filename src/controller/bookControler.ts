@@ -1,4 +1,4 @@
-import {Books} from "@prisma/client";
+import { Books } from "@prisma/client";
 import { Request, Response } from "express";
 import { prisma } from "../config/db";
 
